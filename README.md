@@ -1,5 +1,11 @@
 YFetch is a macOS CLI tool inspired by Neofetch. I built it as a small Bash project to practice shell scripting.
 
+
+__   __ _____  _____  _____ ____ _   _
+\ \ / /|  ___||  ___||_   _/ ___| | | |
+ \ V / | |_   | |__    | || |   | |_| |
+  | |  |  _|  |  __|   | || |___|  _  |
+  |_|  |_|    |_|      |_| \____|_| |_|
 ## Features
 
 - Displays the current user
@@ -12,8 +18,4 @@ YFetch is a macOS CLI tool inspired by Neofetch. I built it as a small Bash proj
 - Displays the GPU
 - Displays the terminal emulator
 - Displays a local image with `catimg`
-__   __ _____  _____  _____ ____ _   _
-\ \ / /|  ___||  ___||_   _/ ___| | | |
- \ V / | |_   | |__    | || |   | |_| |
-  | |  |  _|  |  __|   | || |___|  _  |
-  |_|  |_|    |_|      |_| \____|_| |_|
+
