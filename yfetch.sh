@@ -92,7 +92,10 @@ else
   echo -e "${CYAN}${BOLD}YFETCH${RESET}"
 fi
 
-catimg -w 60 miku_bsh.png
+#if you want to display image uncommnet this you also need to have catimg installed 
+#change the img with wtv you want and play with the width and height 
+#catimg -w 60 miku_bsh.png
+
 
 get_user
 get_host
